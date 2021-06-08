@@ -1,4 +1,5 @@
-# Bookmark homepage with self-made accordion and carousel (fully responsive)
+# Bookmark homepage with self-made accordion and carousel
+:iphone: Website is fully responsive
 
 Live URL: [https://lucid-beaver-2d3206.netlify.app/](https://lucid-beaver-2d3206.netlify.app/)
 

@@ -1,13 +1,18 @@
-# Frontend Mentor - Bookmark landing page
+# Bookmark homepage with self-made slider and carousel
 
-![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)
+Live URL: [https://lucid-beaver-2d3206.netlify.app/](https://lucid-beaver-2d3206.netlify.app/)
 
-## Welcome! 👋
+## Technology stack
+  - HTML
+  - SCSS
+  - JavaScript
 
-Thanks for checking out my solution for this challenge. :blush:
+## Preview design
+Design come from [Frontend Mentor](https://frontendmentor.io) website and it is a one of their challenges.
 
-Check [Frontend Mentor](https://frontendmentor.io) website. Their challenges allow you to improve your skills in a real-life workflow.
+![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
+
 
 ## Lighthouse report
 
-![Lighthouse report for my solution](./lighthouse-report/lighthouse-12-challenge.JPG)
+![Lighthouse report for my solution](./lighthouse-report/lighthouse.jpg)

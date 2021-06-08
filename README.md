@@ -1,4 +1,4 @@
-# Bookmark homepage with self-made accordion and carousel
+# Bookmark homepage with self-made accordion and carousel (fully responsive)
 
 Live URL: [https://lucid-beaver-2d3206.netlify.app/](https://lucid-beaver-2d3206.netlify.app/)
 

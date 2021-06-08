@@ -567,6 +567,7 @@ h3 {
     border-bottom: 2px solid rgba($grayish-blue, 0.16);
     color: $grayish-blue;
     position: relative;
+    cursor: pointer;
 
     &:hover {
       color: $soft-red;

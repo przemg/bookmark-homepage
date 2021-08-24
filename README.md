@@ -27,13 +27,7 @@ Users should be able to:
 
 ### Screenshots
 
-![Solution preview 1 to Bookmark homepage with self-made accordion and carousel](./solution_screens/solution1.jpg)
-
-![Solution preview 2 to Bookmark homepage with self-made accordion and carousel](./solution_screens/solution2.jpg)
-
-![Solution preview 3 to Bookmark homepage with self-made accordion and carousel](./solution_screens/solution3.jpg)
-
-![Solution preview 4 to Bookmark homepage with self-made accordion and carousel](./solution_screens/solution4.jpg)
+![Solution preview to Bookmark homepage with self-made accordion and carousel](./solution_screens/solution.jpg)
 
 ### Links
 

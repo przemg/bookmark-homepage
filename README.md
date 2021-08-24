@@ -25,7 +25,7 @@ Users should be able to:
   - The input field is empty
   - The email address is not formatted correctly
 
-### Screenshots
+### Screenshot
 
 ![Solution preview to Bookmark homepage with self-made accordion and carousel](./solution_screens/solution.jpg)
 

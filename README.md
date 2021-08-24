@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-I tried to build a carousel using as small an amount of js coda that I can, so I found interesting CSS property - scroll-snap-type. Example code below:
+I tried to build a carousel using as small an amount of js code that I can, so I found interesting CSS property - scroll-snap-type. Example code below:
 
 ```css
 .carousel {
